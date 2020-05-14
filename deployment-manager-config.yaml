@@ -1,3 +1,5 @@
+# To be used with Google Cloud Platform Kubernetes Engine to render a Webserver containers with Network and Firewall configrations
+
 resources:
 # Configure a VM
 - name: devops-vm
